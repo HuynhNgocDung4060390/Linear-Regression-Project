@@ -6,19 +6,33 @@ The goal is to perform data analysis and apply predictive models to be able to v
 **II. EDA**
 
 Here is a data sheet of used devices along with their resale prices. The data table consists of 3250 rows.
+
 Overview of the standards of the most purchased used devices:
+
 -Brand: Samsung (Because Others is a combination of many other brands)
+
 -Android
+
 -4G: Yes
+
 -5G: Yes
+
 -Screen size: 12.8cm
+
 -Rear camera: 8 MP
+
 -Front camera: 5MP
+
 -Internal memory: 32GB
+
 -RAM: 4GB
+
 -Battery: 3000 mAh
+
 -Weight: 158 g
+
 -Year of release: 2015
+
 -Number of days of use: 706 days
 
 ![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/fa87a190-78fc-4e37-9645-6e49662e179c)
