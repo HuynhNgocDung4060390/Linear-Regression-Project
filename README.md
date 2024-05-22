@@ -1,9 +1,11 @@
-**I. Problem**
+****I. Problem****
 
 The used and remanufactured appliance market has grown significantly over the past decade as it provides cost-effective options for both consumers and businesses looking to save money when purchasing a machine. . Optimizing the lifespan of devices through used device trading also minimizes their environmental impact and helps with recycling and waste reduction. This is a sample data set of normalized prices of used and new remanufactured/used equipment.
 The goal is to perform data analysis and apply predictive models to be able to value used equipment.
 
-**II. EDA**
+****II. EDA****
+
+**1. Overview**
 
 Here is a data sheet of used devices along with their resale prices. The data table consists of 3250 rows.
 
@@ -35,10 +37,12 @@ Overview of the standards of the most purchased used devices:
 
 -Number of days of use: 706 days
 
+**2. Correlation between variables**
+
 ![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/fa87a190-78fc-4e37-9645-6e49662e179c)
 
 
-**II. Linear Regression Project**
+****II. Linear Regression Project****
 
 **1. Choose variable**
 
