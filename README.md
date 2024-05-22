@@ -61,7 +61,9 @@ Next, we will test the results of the model against the test data set:
 ![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/f415a078-749e-48d2-b1c7-673e72771c6f)
 
 -The RMSE result is 0.24, showing that the model has the ability to predict accurately and close to the actual value.
+
 -The MAE result is 0.1976, showing that the model has a very low average error and the prediction is close to the actual value.
+
 -The R-squared result is 0.8368 which means the model has explained about 83.68% of the variation of the dependent variable (normalized_new_price) by the independent variables. This shows that the model has good ability to explain and predict the dependent variable.
 
 **4. Forecast**
