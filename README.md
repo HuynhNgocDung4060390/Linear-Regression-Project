@@ -58,7 +58,7 @@ Through the above summary, the R-squared (R2) value of 0.825 indicates that the 
 
 Next, we will test the results of the model against the test data set:
 
-![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/b1d6c105-f8ef-4fac-9922-d0d3261bd7e9)
+![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/f415a078-749e-48d2-b1c7-673e72771c6f)
 
 -The RMSE result is 0.24, showing that the model has the ability to predict accurately and close to the actual value.
 -The MAE result is 0.1976, showing that the model has a very low average error and the prediction is close to the actual value.
