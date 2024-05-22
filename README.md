@@ -68,7 +68,8 @@ Next, we will test the results of the model against the test data set:
 
 Suppose a used device with current price is 10 USD, battery capacity is 3000mAh, screen size is 10 inches, Rear camera is 8 MP and Front camera is 5MP
 
-![Uploading image.png…]()
+![image](https://github.com/HuynhNgocDung4060390/Linear-Regression-Project/assets/150424521/e70dbe3f-dca7-44d4-a8b3-eb100496e843)
+
 
 Suppose a used device with current price is 10 USD, battery capacity is 3000mAh, screen size is 10 inches, Rear camera is 8 MP and Front camera is 5MP
 
